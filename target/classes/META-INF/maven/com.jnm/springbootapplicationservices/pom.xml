@@ -12,7 +12,7 @@
 	<groupId>com.jnm</groupId>
 	<artifactId>springbootapplicationservices</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>PunjabiJagranArticleServices</name>
+	<name>springbootapplicationservices</name>
 	<description>Jagran Spring Boot API Project</description>
 	<properties>
 		<java.version>16</java.version>
