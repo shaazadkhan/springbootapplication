@@ -18,6 +18,6 @@ public class SpringbootapplicationApplication {
 		@GetMapping("/name/{name}")
 		@ResponseBody
 		public String getName(@PathVariable String name) {
-			return "Hello gentle man your name is:-> "+name;
+			return "Hello gentle man your name is may be Ravi Yadav:-> "+name;
 		}
 }
